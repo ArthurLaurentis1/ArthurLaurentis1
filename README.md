@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Laurentis</h1>
 
 <p align="center">
-  Software Developer · Back-end · Node.js · MySQL
+  Software Developer · Python · JavaScript · SQL
 </p>
 
 <p align="center">
@@ -12,22 +12,21 @@
 
 ---
 
-```js
-const arthur = {
-  foco: ["APIs REST", "modelagem de dados", "autenticação e segurança"],
-  stack: {
-    backend: ["Node.js", "Express", "FastAPI"],
-    banco: ["MySQL"],
-    frontend: ["JavaScript", "HTML", "CSS"],
-    linguagens: ["JavaScript", "Python"],
-  },
-  principios: [
-    "Código legível antes de código esperto",
-    "Modelar os dados antes de escrever endpoints",
-    "Segurança desde o primeiro commit",
-  ],
-  agora: "Sistema de controle financeiro (Node.js + MySQL)",
-};
+```python
+arthur = {
+    "foco": ["APIs REST", "modelagem de dados", "autenticação e segurança"],
+    "stack": {
+        "linguagens": ["Python", "JavaScript", "SQL"],
+        "backend": ["FastAPI"],
+        "banco": ["MySQL"],
+        "frontend": ["HTML", "CSS", "JavaScript"],
+    },
+    "principios": [
+        "Código legível antes de código esperto",
+        "Modelar os dados antes de escrever endpoints",
+        "Segurança desde o primeiro commit",
+    ],
+}
 ```
 
 ---
@@ -35,31 +34,8 @@ const arthur = {
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,fastapi,mysql,html,css,git,github,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,fastapi,html,css,git,github,vscode" alt="Tecnologias" />
 </p>
-
----
-
-## Projetos
-
-**[Controle financeiro](https://github.com/SEU_USUARIO/NOME_DO_REPO_FINANCEIRO)** · _em desenvolvimento_
-API em Node.js com persistência em MySQL e front-end em JavaScript puro. Registro de receitas e despesas com categorização.
-
-**[Cadastro e login](https://github.com/SEU_USUARIO/NOME_DO_REPO_LOGIN)**
-Autenticação de usuários com hash de senhas via bcrypt. Próximo passo: manutenção de sessão com JWT ou cookies.
-`Node.js` `MySQL` `bcrypt`
-
-**[Encurtador de links](https://github.com/SEU_USUARIO/NOME_DO_REPO_ENCURTADOR)**
-Geração de links curtos com redirecionamento para a URL original.
-`STACK_USADA`
-
-**[Lista de tarefas](https://github.com/SEU_USUARIO/NOME_DO_REPO_TODO)**
-CRUD completo com manipulação do DOM e animações em CSS, sem frameworks.
-`JavaScript` `HTML` `CSS`
-
-**[Portfólio](https://github.com/SEU_USUARIO/Portifolio.ArthurLaurentis)**
-Site responsivo com variáveis CSS, tipografia fluida com `clamp()` e layout em Flexbox.
-`HTML` `CSS`
 
 ---
 
