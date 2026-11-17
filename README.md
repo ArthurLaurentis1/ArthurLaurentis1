@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/arthur-laurentis-1b1b913b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://SEU_USUARIO.github.io/Portifolio.ArthurLaurentis"><img src="https://img.shields.io/badge/Portfólio-2d2a26?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
@@ -34,7 +34,7 @@ arthur = {
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,mysql,fastapi,html,css,git,github,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,fastapi,html,css,git,github,vscode" alt="Tecnologias" />
 </p>
 
 ---
@@ -42,12 +42,7 @@ arthur = {
 ## Contribuições
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArthurLaurentis1&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLaurentis1&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
----
-
-<p align="center">
-  Mais de 2 anos em TI corporativa · Ciência da Computação · CS50x
-</p>
