@@ -5,29 +5,28 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/arthur-laurentis-1b1b913b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://SEU_USUARIO.github.io/Portifolio.ArthurLaurentis"><img src="https://img.shields.io/badge/Portfólio-2d2a26?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio"></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/arthur-laurentis-1b1b913b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ArthurLaurentis1.github.io/Portifolio.ArthurLaurentis"><img src="https://img.shields.io/badge/Portfólio-2d2a26?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:arthurlma@outlook.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
 
-```python
-arthur = {
-    "foco": ["APIs REST", "modelagem de dados", "autenticação e segurança"],
-    "stack": {
-        "linguagens": ["Python", "JavaScript", "SQL"],
-        "backend": ["FastAPI"],
-        "banco": ["MySQL"],
-        "frontend": ["HTML", "CSS", "JavaScript"],
-    },
-    "principios": [
-        "Código legível antes de código esperto",
-        "Modelar os dados antes de escrever endpoints",
-        "Segurança desde o primeiro commit",
-    ],
-}
-```
+## Tecnologias
+ 
+**Linguagens**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Ferramentas**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+ 
+<br>
 
 ---
 
