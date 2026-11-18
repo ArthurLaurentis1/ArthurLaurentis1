@@ -9,7 +9,6 @@
   <a href="mailto:arthurlma@outlook.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
----
 
 ## Sobre mim
 
